@@ -208,7 +208,7 @@ const Index = () => {
 
       {/* Footer */}
       <footer className="border-t border-border py-8 text-center text-sm text-muted-foreground">
-        <p>Powered by Gemini Pro Vision • Bootstrap 5 • Semantic HTML5</p>
+        <p>CSS styling • Bootstrap  •  HTML5</p>
       </footer>
     </div>
   );
