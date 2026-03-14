@@ -109,7 +109,7 @@ const Index = () => {
           >
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-primary/10 border border-primary/20 text-primary text-sm font-medium mb-6">
               <Sparkles className="w-4 h-4" />
-              AI-Powered Design to Code
+              Vision to code
             </div>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-foreground mb-4">
               Design → Code
